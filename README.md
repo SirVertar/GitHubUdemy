@@ -1,3 +1,3 @@
 # Paragon z warzywniakas
 Kto jest najlepszym comiterem?
-Wybierz user2
+User 2
